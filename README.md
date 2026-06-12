@@ -351,7 +351,7 @@ If you use SafeClawBench in your research, please cite:
 ```bibtex
 @misc{safeclawbench2026,
   title  = {SafeClawBench: An Operating-System Perspective on the Safety of Self-Hosted AI Agents},
-  author = {SafeClawBench Team},
+  author = {Peizhi Niu, Shangding Gu, Wenjie Qu, Tianneng Shi, Yuankai Li, Ahmad Tawaha, Hend Alzahrani, Vincent Siu, Boyi Li, Chenguang Wang, Jiaheng Zhang, Basel Alomair, Ming Jin, Muhao Chen, Chi Wang, Costas Spanos, Dawn Song},
   year   = {2026},
   Journal   = {github}
 }
